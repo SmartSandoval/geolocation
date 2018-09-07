@@ -9,7 +9,7 @@
             "changeTime": 1536313543161,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -24,7 +24,7 @@
             "changeTime": 1536313543162,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\sfdx_projects\\geolocation\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\sfdx_projects\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1536314739548,
-            "changeTime": 1536314739548,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1536316660100,
+            "changeTime": 1536316660100,
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
         }
     ],
     [
@@ -52,7 +52,7 @@
             "changeTime": 1536314571633,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -67,7 +67,7 @@
             "changeTime": 1536314046266,
             "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,14 +75,14 @@
     [
         "C:\\sfdx_projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdx_projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1536315727956,
             "changeTime": 1536315727956,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -213,6 +213,45 @@
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\sfdx_projects\\geolocation\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdx_projects\\geolocation\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536316660139,
+            "changeTime": 1536316660139,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+        }
+    ],
+    [
+        "C:\\sfdx_projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdx_projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 292,
+            "modifiedTime": 1536316671810,
+            "changeTime": 1536316671810,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
+        }
+    ],
+    [
+        "C:\\sfdx_projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdx_projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1536316660139,
+            "changeTime": 1536316660139,
+            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6"
         }
     ]
 ]
