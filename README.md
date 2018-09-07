@@ -1,2 +1,14 @@
-# geolocation
-A simple geolocation application with Lightning components using Salesforce DX best practices
+# SFDX  App
+
+## Dev, Build and Test
+
+
+## Resources
+
+
+## Description of Files and Directories
+
+
+## Issues
+
+
